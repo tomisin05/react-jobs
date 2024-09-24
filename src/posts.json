@@ -1,0 +1,125 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "title": "Welcome to the Community!",
+        "type": "Announcement",
+        "content": "We're excited to have you here. Feel free to introduce yourself, share your experiences, or ask questions. Let's build a vibrant and supportive community together!",
+        "author": {
+          "name": "Admin",
+          "email": "admin@communityhub.com",
+          "contact": "555-555-5551"
+        },
+        "timestamp": "2024-09-23T10:15:30Z"
+      },
+      {
+        "id": "2",
+        "title": "New Event: Tech Workshop",
+        "type": "Event",
+        "content": "Join us for a hands-on tech workshop on React and front-end development! Register now to secure your spot.",
+        "author": {
+          "name": "John Doe",
+          "email": "john@techsolutions.com",
+          "contact": "555-555-5552"
+        },
+        "timestamp": "2024-09-22T08:30:00Z"
+      },
+      {
+        "id": "3",
+        "title": "Question: How to optimize React components?",
+        "type": "Discussion",
+        "content": "I'm working on a large React project and noticed performance issues when rendering lists. Any tips on optimizing component performance?",
+        "author": {
+          "name": "Jane Smith",
+          "email": "jane@devtalks.com",
+          "contact": "555-555-5553"
+        },
+        "timestamp": "2024-09-21T12:45:20Z"
+      },
+      {
+        "id": "4",
+        "title": "Share Your Favorite Tools for Front-End Development",
+        "type": "Discussion",
+        "content": "What tools, libraries, or extensions do you find essential for front-end development? Let's help each other improve our workflows!",
+        "author": {
+          "name": "Alex Brown",
+          "email": "alex@designhub.com",
+          "contact": "555-555-5554"
+        },
+        "timestamp": "2024-09-20T09:00:00Z"
+      },
+      {
+        "id": "5",
+        "title": "Introducing Our New Project: AI-Powered Web App",
+        "type": "Project",
+        "content": "Our team is excited to announce that we’re working on an AI-powered web app to enhance user experiences. Stay tuned for more updates!",
+        "author": {
+          "name": "Samantha Lee",
+          "email": "samantha@aitech.com",
+          "contact": "555-555-5555"
+        },
+        "timestamp": "2024-09-19T15:30:45Z"
+      },
+      {
+        "id": "6",
+        "title": "Job Opportunity: Backend Developer",
+        "type": "Job Post",
+        "content": "We are hiring a skilled backend developer to join our fast-growing team. The ideal candidate will have experience with Node.js and databases like PostgreSQL.",
+        "author": {
+          "name": "HR Team",
+          "email": "jobs@techcorps.com",
+          "contact": "555-555-5556"
+        },
+        "timestamp": "2024-09-18T14:10:00Z"
+      },
+      {
+        "id": "7",
+        "title": "Meetup: Coffee & Code",
+        "type": "Event",
+        "content": "Join us for a casual coffee meetup this Saturday at Java Central. Bring your laptop, coding questions, and network with fellow developers!",
+        "author": {
+          "name": "Michael Wang",
+          "email": "michael@meetupdevs.com",
+          "contact": "555-555-5557"
+        },
+        "timestamp": "2024-09-17T08:45:30Z"
+      },
+      {
+        "id": "8",
+        "title": "Feedback Request: New API Design",
+        "type": "Discussion",
+        "content": "We're designing a new REST API for our product and would love feedback from the community. Check out the spec and let us know your thoughts!",
+        "author": {
+          "name": "API Team",
+          "email": "api@techsolutions.com",
+          "contact": "555-555-5558"
+        },
+        "timestamp": "2024-09-16T11:25:40Z"
+      },
+      {
+        "id": "9",
+        "title": "Question: Best Practices for Authentication?",
+        "type": "Discussion",
+        "content": "What are the best practices for handling authentication in modern web apps? Should we stick with JWT or explore other options like OAuth2?",
+        "author": {
+          "name": "Lily Chen",
+          "email": "lily@frontenddev.com",
+          "contact": "555-555-5559"
+        },
+        "timestamp": "2024-09-15T13:50:50Z"
+      },
+      {
+        "id": "10",
+        "title": "Resource: Free Online Courses for Developers",
+        "type": "Resource",
+        "content": "Here's a curated list of free online courses for developers that cover everything from front-end frameworks to machine learning. Check them out!",
+        "author": {
+          "name": "Tech Learning Hub",
+          "email": "info@techlearninghub.com",
+          "contact": "555-555-5560"
+        },
+        "timestamp": "2024-09-14T07:30:00Z"
+      }
+    ]
+  }
+  

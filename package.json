@@ -1,5 +1,5 @@
 {
-  "name": "react-jobs",
+  "name": "community_board",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,14 +8,16 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "server": "json-server --watch src/jobs.json --port 8000"
+    "server": "json-server --watch src/posts.json --port 8000"
   },
   "dependencies": {
     "postcss-cli": "^11.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.2.1",
-    "react-router-dom": "^6.26.0"
+    "react-router-dom": "^6.26.0",
+    "react-spinners": "^0.14.1",
+    "react-toastify": "^10.0.5"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
